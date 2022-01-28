@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/demo_react_mxgraph/static/css/main.4766fa8e.chunk.css",
-    "main.js": "/demo_react_mxgraph/static/js/main.d03db4c4.chunk.js",
-    "main.js.map": "/demo_react_mxgraph/static/js/main.d03db4c4.chunk.js.map",
+    "main.js": "/demo_react_mxgraph/static/js/main.0e863449.chunk.js",
+    "main.js.map": "/demo_react_mxgraph/static/js/main.0e863449.chunk.js.map",
     "runtime-main.js": "/demo_react_mxgraph/static/js/runtime-main.e8e4c42e.js",
     "runtime-main.js.map": "/demo_react_mxgraph/static/js/runtime-main.e8e4c42e.js.map",
     "static/js/2.7240fd36.chunk.js": "/demo_react_mxgraph/static/js/2.7240fd36.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.e8e4c42e.js",
     "static/js/2.7240fd36.chunk.js",
     "static/css/main.4766fa8e.chunk.css",
-    "static/js/main.d03db4c4.chunk.js"
+    "static/js/main.0e863449.chunk.js"
   ]
 }
